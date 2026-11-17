@@ -1,0 +1,4 @@
+00:00 +0: loading /home/oscar/Universidad/practica-integracion-pruebas-flutter/test/widget_test.dart
+00:00 +0: /home/oscar/Universidad/practica-integracion-pruebas-flutter/test/widget_test.dart: muestra errores al enviar el formulario de acceso vacío
+00:00 +1: /home/oscar/Universidad/practica-integracion-pruebas-flutter/test/widget_test.dart: muestra errores al enviar el formulario de acceso vacío
+00:01 +2: All tests passed!
