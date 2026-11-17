@@ -2,6 +2,20 @@
 
 Aplicación Flutter Web en español con autenticación por correo y gestión personal de tareas. Usa Firebase Authentication y Cloud Firestore; no usa FCM, Storage ni APIs REST externas.
 
+## Información académica
+
+**Universidad:** Universidad Tecnológica de El Salvador (UTEC)  
+**Asignatura:** Técnicas de Calidad de Software  
+**Actividad:** E4_A1 — Práctica de laboratorio: Integración y pruebas funcionales del proyecto  
+**Modalidad:** Trabajo en pareja
+
+### Integrantes
+
+| Nombre completo | Carnet | Usuario de GitHub |
+|---|---|---|
+| Oscar Villatoro | 2942862018 | [OAvillatoro](https://github.com/OAvillatoro) |
+| Alan Isai Reyes Ramirez | 2937542022 | [alanrey777-rgb](https://github.com/alanrey777-rgb) |
+
 ## Funciones
 
 - Registro, inicio, persistencia y cierre de sesión.
