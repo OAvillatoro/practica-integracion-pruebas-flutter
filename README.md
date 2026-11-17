@@ -20,7 +20,7 @@ Aplicación Flutter Web en español con autenticación por correo y gestión per
 ## Instalación
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/OAvillatoro/practica-integracion-pruebas-flutter
 cd practica-integracion-pruebas-flutter
 git checkout semana16-integracion
 flutter pub get
